@@ -97,7 +97,7 @@ Working with CSV and structured datasets
 
 Clone the repository
 
-git clone https://github.com/yourusername/Data_Science_Projects.git
+git clone https://github.com/katherakarthik/Data_Science_Projects.git
 
 
 Open the .ipynb files in Jupyter Notebook or VS Code.
