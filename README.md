@@ -2,6 +2,8 @@
 
 This repository contains a collection of Data Science projects implemented using Python, based on hands-on practice from the Python for Data Science learning path (freeCodeCamp).
 The goal of this repository is to demonstrate core data analysis workflows, clean coding practices, and consistent use of GitHub for project documentation.
+
+
 📌 Objectives
 
 Practice Python fundamentals for Data Science
