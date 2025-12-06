@@ -1,110 +1,79 @@
-🧠 Data Science Projects — Web Scraping & Data Visualization
-📘 Overview
+📊 Data Science Projects (Python)
 
-This repository contains two beginner-to-intermediate level data science projects focused on data collection (Web Scraping) and data visualization using Python.
-The goal of these projects is to understand how to gather, clean, and visualize data for real-world analysis.
+This repository contains a collection of Data Science projects implemented using Python, based on hands-on practice from the Python for Data Science learning path (freeCodeCamp).
+The goal of this repository is to demonstrate core data analysis workflows, clean coding practices, and consistent use of GitHub for project documentation.
+📌 Objectives
 
-🕸️ Project 1 — Football Data Web Scraping
-🔹 Objective
+Practice Python fundamentals for Data Science
 
-To collect football match data (seasons, scores, teams, etc.) from football-uk.co.uk
- using Python-based web scraping techniques.
+Learn structured data analysis workflows
 
-🔹 Tools & Libraries
+Apply data cleaning, transformation, and visualization techniques
 
-Python
+Build the habit of publishing and documenting code on GitHub
 
-BeautifulSoup
+🛠️ Tech Stack
 
-Requests
+Language: Python
 
-Pandas
+Libraries: Pandas, NumPy, Matplotlib
 
-🔹 Steps Performed
+Environment: Jupyter Notebook
 
-Sent HTTP requests to the football-uk.co.uk website and parsed the HTML pages.
+Version Control: Git, GitHub
 
-Extracted structured data such as season, teams, and match details.
+✅ Projects Overview
 
-Cleaned and stored the dataset in a CSV file for further analysis.
+Each project in this repository follows a similar structure:
 
-🔹 Outcome
+Loading and inspecting datasets
 
-Created a football dataset with multiple seasons of match data that can be used for future analytics and machine learning tasks.
+Cleaning and preprocessing data
 
-📊 Project 2 — Population Data Visualization
-🔹 Objective
+Exploratory Data Analysis (EDA)
 
-To visualize demographic trends using a population dataset (CSV file) through different types of charts and summary tables.
+Creating visualizations for insights
 
-🔹 Tools & Libraries
+Drawing basic conclusions based on analysis
 
-Python
+The projects are tutorial-guided implementations, created to strengthen understanding of data science fundamentals through practical coding.
 
-Pandas
+📊 Key Skills Demonstrated
 
-Matplotlib
+Data cleaning and preprocessing using Pandas
 
-Seaborn
+Exploratory data analysis (EDA)
 
-🔹 Steps Performed
+Data visualization with Matplotlib
 
-Loaded the population dataset using Pandas.
+Working with real datasets
 
-Created Pivot Tables to summarize population data across categories.
+Writing organized and readable notebooks
 
-Generated multiple visualizations:
+Using GitHub for code versioning and sharing
 
-📈 Line Chart
+⚠️ Important Note
 
-📊 Bar Plot
+These projects are learning-focused and tutorial-based.
+They are intended to demonstrate hands-on practice and conceptual understanding, not production-grade systems.
 
-🥧 Pie Chart
-
-📦 Box Plot
-
-📉 Histogram
-
-⚪ Scatter Plot
-
-Analyzed patterns and compared population changes visually.
-
-🔹 Outcome
-
-Produced clear, data-driven visual insights from raw population data using Python visualization libraries.
-
-🧰 Skills Demonstrated
-
-Web Scraping
-
-Data Cleaning & Preprocessing
-
-Data Analysis using Pandas
-
-Data Visualization using Matplotlib & Seaborn
-
-Working with CSV and structured datasets
-
-📂 Folder Structure
-📁 Data_Science_Projects/
-│
-├── 📄 Web_Scraping_Football.ipynb
-├── 📄 Population_Data_Visualization.ipynb
-├── 📄 population.csv
-└── 📄 README.md
-
-🚀 How to Run
+🚀 How to Use
 
 Clone the repository
 
-git clone https://github.com/katherakarthik/Data_Science_Projects.git
+git clone https://github.com/your-username/DataScience-Projects.git
 
 
-Open the .ipynb files in Jupyter Notebook or VS Code.
+Open notebooks using Jupyter
 
-Install required packages if needed:
+Run cells sequentially to follow the analysis
 
-pip install pandas matplotlib seaborn requests beautifulsoup4
+📈 Future Improvements
 
+Add independent datasets for deeper analysis
 
-Run all cells to view scraping and visualization results.
+Improve visual storytelling
+
+Convert selected notebooks to end-to-end mini projects
+
+Add Streamlit dashboards for selected analyses
